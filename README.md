@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sacuzel
+- 👋 Hi, I’m Abdurrahman Faig, a.k.a @Sacuzel
 - 👀 I’m interested in coding, artificial intelligence and automation.
 - 🌱 I’m currently learning automation in university, and my minor is in software engineering.
 - I am always open for networking opportunities!
